@@ -1,2 +1,2 @@
 # Python
-Author - Sikander Lodhi
+Author - Sikander Khan
